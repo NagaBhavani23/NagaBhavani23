@@ -1,0 +1,29 @@
+  Rock, Paper, Scissors Game using Python
+
+A simple command-line **Rock, Paper, Scissors** game built in Python. Play against the computer in this classic game where you can test your luck and strategy! 
+ Features:
+ Player vs Computer mode
+- Randomized computer moves
+- User-friendly command-line interface
+- Displays round results and keeps score
+
+ Technologies Used:
+- Python 3.x
+
+ Installation:
+1. Clone the repository:
+   git clone https://github.com/NagaBhavani23/rock_paper_scissor.git
+   
+2. Navigate to the project directory:
+   
+   cd rock_paper_scissor
+   
+
+ Usage:
+Run the game using the following command:
+
+python rock_paper_scissor.py
+
+
+Follow the on-screen prompts to choose Rock, Paper, or Scissors and see if you can beat the computer!
+
