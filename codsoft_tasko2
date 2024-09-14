@@ -1,0 +1,31 @@
+  Python Password Generator
+
+A simple and customizable password generator built using Python. This tool generates secure, random passwords that can be tailored to various security needs, supporting different character sets and password lengths.
+
+ Features:
+- Generate passwords of customizable lengths
+- Include/exclude uppercase letters, lowercase letters, numbers, and special characters
+- User-friendly command-line interface
+- Secure and random password generation
+
+ Technologies Used:
+- Python 3.x
+
+ Installation:
+1. Clone the repository:
+  
+   git clone https://github.com/NagaBhavan23/password-generator.git
+   
+2. Navigate to the project directory:
+   
+   cd password-generator
+   
+
+ Usage:
+Run the password generator using the following command:
+
+python password_generator.py
+
+
+You will be prompted to enter the desired password length and select the character sets to include.
+
