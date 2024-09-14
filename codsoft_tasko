@@ -1,0 +1,19 @@
+#task1 Calculator 
+Here's a sample GitHub repository description
+
+  Simple Python Calculator
+
+A simple and user-friendly calculator built using Python. This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is implemented with a command-line interface and is suitable for anyone looking to practice Python programming.
+  Features:
+- Addition, Subtraction, Multiplication, and Division operations
+- Handles float and integer inputs
+- Error handling for division by zero
+- Clear and interactive command-line interface
+
+  Technologies Used:
+- Python 3.x
+
+ How to Use:
+1. Clone this repository: `git clone https://github.com/NagaBhavani23/python-calculator.git`
+2. Navigate to the directory: `cd python-calculator`
+3. Run the calculator: `python calculator.py`
