@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List App | NagaBhavani23</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>
+                    <i class="fas fa-tasks"></i> My To-Do List
+                </h1>
+                <p class="subtitle">Stay organized and productive</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Input Section -->
+            <div class="input-section">
+                <div class="input-wrapper">
+                    <input 
+                        type="text" 
+                        id="taskInput" 
+                        class="task-input" 
+                        placeholder="Add a new task... (Press Enter)"
+                        autocomplete="off"
+                    >
+                    <button id="addBtn" class="add-btn" title="Add Task">
+                        <i class="fas fa-plus"></i>
+                    </button>
+                </div>
+                <div class="input-options">
+                    <label class="priority-label">
+                        <span>Priority:</span>
+                        <select id="prioritySelect" class="priority-select">
+                            <option value="low">Low</option>
+                            <option value="medium" selected>Medium</option>
+                            <option value="high">High</option>
+                        </select>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Filter Buttons -->
+            <div class="filter-section">
+                <button class="filter-btn active" data-filter="all">
+                    <i class="fas fa-list"></i> All
+                </button>
+                <button class="filter-btn" data-filter="pending">
+                    <i class="fas fa-circle"></i> Pending
+                </button>
+                <button class="filter-btn" data-filter="completed">
+                    <i class="fas fa-check-circle"></i> Completed
+                </button>
+            </div>
+
+            <!-- Stats Section -->
+            <div class="stats-section">
+                <div class="stat">
+                    <span class="stat-label">Total</span>
+                    <span class="stat-value" id="totalTasks">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Completed</span>
+                    <span class="stat-value completed" id="completedTasks">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Pending</span>
+                    <span class="stat-value pending" id="pendingTasks">0</span>
+                </div>
+            </div>
+
+            <!-- Tasks List -->
+            <div class="tasks-section">
+                <ul id="tasksList" class="tasks-list">
+                    <!-- Tasks will be added here dynamically -->
+                </ul>
+                <div id="emptyState" class="empty-state">
+                    <i class="fas fa-inbox"></i>
+                    <p>No tasks yet. Add one to get started! 🚀</p>
+                </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="action-buttons">
+                <button id="clearCompletedBtn" class="action-btn clear-btn" title="Clear Completed Tasks">
+                    <i class="fas fa-trash"></i> Clear Completed
+                </button>
+                <button id="clearAllBtn" class="action-btn clear-all-btn" title="Clear All Tasks">
+                    <i class="fas fa-broom"></i> Clear All
+                </button>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>💾 Your tasks are automatically saved to local storage</p>
+            <p>Made with <span class="heart">❤️</span> by NagaBhavani23</p>
+        </footer>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div id="confirmModal" class="modal">
+        <div class="modal-content">
+            <h2 id="modalTitle">Confirm Action</h2>
+            <p id="modalMessage">Are you sure?</p>
+            <div class="modal-buttons">
+                <button id="confirmBtn" class="btn-confirm">Yes, Proceed</button>
+                <button id="cancelBtn" class="btn-cancel">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
