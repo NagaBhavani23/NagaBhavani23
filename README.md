@@ -3,13 +3,15 @@
 <!-- VISITOR COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=NagaBhavani23&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- ANIMATED WAVE GREETING -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> &nbsp; **Hello, World!**
+<!-- WAVE GREETING -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"/> &nbsp;**Hello World, I'm NagaBhavani!**
+
+<br/>
 
 <!-- ANIMATED TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NagaBhavani+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Python+%7C+Java+%7C+Web+Dev+Enthusiast;Building+Clean+%26+Scalable+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;Python+Developer+%7C+LLM+Enthusiast+%F0%9F%A4%96;Frontend+%7C+Backend+%7C+Full+Stack+Learner;Building+Meaningful+Tech%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720"/>
 
 </div>
 
@@ -17,20 +19,22 @@
 
 ## 🙋‍♀️ About Me
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Hey there! I'm **Kandukuri NagaBhavani** — a passionate Software Developer who loves turning ideas into clean, efficient code. I thrive on learning, building, and solving real-world problems through technology.
+I'm **Kandukuri NagaBhavani** — a driven **Software Developer** who loves crafting clean, purposeful code. I'm a fresher with real-world internship experience, a sharp eye for detail, and a passion for turning complex problems into elegant solutions.
 
-🏢 **Work Experience:**
-- 💼 **CodSoft** — Software Developer Intern *(Hands-on project experience)*
-- 🤖 **Ethara.ai** — Developer Intern *(AI-powered product development)*
+### 💼 Work Experience
+- 🐍 **CodSoft** — *Python Developer Intern*
+  Built Python-based projects, honed problem-solving skills, and delivered clean, functional code under real deadlines.
 
-**A few fun facts about me:**
-- 🌱 I'm always learning something new — currently sharpening my Full Stack & AI skills
-- 💡 I believe that great code is both functional *and* readable
-- ☕ Fuelled by curiosity, coffee, and clean commits
-- 🎯 My goal: Build products that genuinely make people's lives easier
-- 🌟 Fresher with a fresher's hunger — ready to dive deep!
+- 🤖 **Ethara.ai** — *LLM Intern*
+  Worked with Large Language Models, explored AI-powered product pipelines, and contributed to cutting-edge generative AI solutions.
+
+### ⚡ Fun Facts
+- 🌱 Currently levelling up in Full Stack Development & AI/ML
+- 💡 I believe great code is both readable *and* robust — beauty matters!
+- ☕ Powered by curiosity, consistency, and the occasional caffeine boost
+- 🎯 Fresher by title, builder by mindset — always shipping something new!
 
 ---
 
@@ -54,13 +58,13 @@ Hey there! I'm **Kandukuri NagaBhavani** — a passionate Software Developer who
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kandukuri%20NagaBhavani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandukuri-nagabhavani-1649b12a5)
 [![GitHub](https://img.shields.io/badge/GitHub-NagaBhavani23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagaBhavani23)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagabhavani23@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagabhavani23@gmail.com)
 
 </div>
 
@@ -86,17 +90,17 @@ Hey there! I'm **Kandukuri NagaBhavani** — a passionate Software Developer who
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NagaBhavani23&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NagaBhavani23&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![NagaBhavani23's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NagaBhavani23&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![NagaBhavani23's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NagaBhavani23&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -104,14 +108,18 @@ Hey there! I'm **Kandukuri NagaBhavani** — a passionate Software Developer who
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720"/>
 
-### 💬 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
+### 💬 *"First, solve the problem. Then, write the code." — John Johnson*
 
-**✨ Thanks for visiting my profile! Drop a ⭐ if you like what you see!**
+**⭐ If you find my work interesting, drop a star — it means the world!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandukuri-nagabhavani-1649b12a5)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandukuri-nagabhavani-1649b12a5)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
